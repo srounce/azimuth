@@ -1,5 +1,7 @@
 # [Azimuth](http://github.com/mcrider/azimuth)
 
+[![Join the chat at https://gitter.im/srounce/azimuth](https://badges.gitter.im/srounce/azimuth.svg)](https://gitter.im/srounce/azimuth?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Azimuth is a simple, elegant, and fast CMS built using meteor.js.
 
 This is the tracking repository for the various Meteorite packages that make up Azimuth.  If you'd just like to get running with Azimuth, visit the [home page](http://azimuthc.ms/) for simple instructions.
